@@ -1,0 +1,5 @@
+I projektet skapades en class som heter Basgrupp. Där lade jag till properties för att minska lite med kod i programmet.
+Började med att skapa metoder Basgrupp för sökning av person, borttagning av en person och visa listan. När jag anropade metoderna
+i programmet, funkade allt förutom borttagningen. Efter det lade jag till variabler, if-satser, listan och foreach i programmet,
+det funkade felfritt. Namgivningen var anpassad till koden för att det blir enklare för användaren. Valde foreach istället för for
+loop på grund av det är enklare. Kommenterade även koden för att det blir enklare.  
